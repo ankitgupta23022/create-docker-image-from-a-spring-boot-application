@@ -102,7 +102,7 @@ docker run -p 8082:8081 ankit23022/user-service:0.0.1-SNAPSHOT
 -----------------------------------------------
 
 
-Another way(Didnt work for me tho):-
+Another way(Didn't work for me tho):-
 
 Add Developer tool dependency
 
